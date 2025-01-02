@@ -142,6 +142,10 @@ const CONFIG = {
 					link: 'http://reddit.com/',
 				},
 				{
+					name: '/r/formula1',
+					link: 'http://reddit.com/r/formula1/',
+				},
+				{
 					name: 'Facebook',
 					link: 'http://www.facebook.com/',
 				},
