@@ -134,46 +134,42 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'message-square-text',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Reddit',
+					link: 'http://reddit.com/',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Facebook',
+					link: 'http://www.facebook.com/',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-				},
-				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Sheets',
+					link: 'https://docs.google.com/spreadsheets/u/0/',
 				},
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'wallet',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'SoFi',
+					link: 'https://www.sofi.com/my/money/account/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Chase',
+					link: 'https://www.chase.com/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Fidelity',
+					link: 'https://digital.fidelity.com/ftgw/digital/portfolio/summary',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Vanguard',
+					link: 'https://my.vanguardplan.com/vanguard/dashboard/',
 				},
 			],
 		},
